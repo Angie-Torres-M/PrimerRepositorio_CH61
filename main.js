@@ -6,6 +6,9 @@
 
 // Calculadora básica con elección de operación
 
+//Investigando cómo usar prompt en Node.js
+// Usando el módulo readline para simular prompts en Node.js
+
 const readline = require('readline').createInterface({
   input: process.stdin,
   output: process.stdout
